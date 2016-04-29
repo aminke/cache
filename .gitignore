@@ -1,0 +1,15 @@
+i# OS
+.DS_Store
+Thumbs.db
+._*
+
+# IDEs
+.buildpath
+.project
+.settings/
+.build/
+.idea/
+nbproject/
+
+# Project
+vendor/
